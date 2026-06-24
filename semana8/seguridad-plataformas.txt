@@ -1,0 +1,15 @@
+# Prácticas de Seguridad para una Plataforma Digital Comunitaria
+
+1. No exponer datos personales de los usuarios sin su consentimiento.
+
+2. Utilizar contraseñas seguras y no compartir credenciales de acceso.
+
+3. Implementar conexiones seguras mediante HTTPS para proteger la información transmitida.
+
+4. Registrar y monitorear los accesos al sistema para identificar actividades sospechosas.
+
+5. Limitar el acceso a información sensible únicamente a usuarios autorizados.
+
+## Importancia
+
+Estas prácticas permiten proteger la privacidad de los usuarios, prevenir accesos no autorizados, reducir riesgos de seguridad y garantizar el correcto funcionamiento de la plataforma digital.

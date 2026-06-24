@@ -1,0 +1,12 @@
+¿Qué información muestra cada comando?
+
+uname -a: Muestra información del sistema operativo, versión del kernel y arquitectura.
+hostname: Muestra el nombre del equipo o servidor.
+uptime: Indica cuánto tiempo lleva encendido el sistema y su carga actual.
+free -h: Muestra el uso de la memoria RAM y swap.
+df -h: Muestra el espacio usado y disponible en los discos.
+lscpu: Muestra información detallada del procesador.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Es útil porque permite verificar el estado del servidor, controlar el uso de recursos como memoria, CPU y almacenamiento, detectar problemas de rendimiento y facilitar las tareas de mantenimiento y monitoreo.
